@@ -1,6 +1,5 @@
 use std::process;
 use std::env;
-
 use minigrep::Config;
 
 fn main() {
